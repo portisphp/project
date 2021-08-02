@@ -1,0 +1,7 @@
+{
+    "name": "portis/project",
+    "description": "The Portis project.",
+    "type": "project",
+    "license": "proprietary",
+    "require": {}
+}
